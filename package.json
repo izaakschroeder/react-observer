@@ -1,0 +1,10 @@
+{
+	"name": "react-observer",
+	"version": "0.1.0-alpha1",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"main": "lib/observer.js",
+	"peerDependencies": {
+		"most": "^0.14.0",
+		"react": "^0.13 || ^0.14.0-alpha1"
+	}
+}
